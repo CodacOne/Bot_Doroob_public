@@ -13,7 +13,7 @@
 👉 [مشاهدة الفيديو](https://raw.githubusercontent.com/CodacOne/Bot_Doroob_public/main/shrh-bot-doroob-1%20.mp4)
 
 ▶️ **الفيديو الثاني – شرح تفصيلي لسيناريو الاستعلام**  
-👉 [مشاهدة الفيديو](https://raw.githubusercontent.com/CodacOne/Bot_Doroob_public/main/shrh-bot-doroob-%202.mp4)
+👉 [مشاهدة الفيديو](https://github.com/CodacOne/Bot_Doroob_public/blob/main/shrh-bot-doroob-%202.mp4)
 
 
 
